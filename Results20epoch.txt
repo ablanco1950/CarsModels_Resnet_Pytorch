@@ -1,0 +1,158 @@
+Warning (from warnings module):
+  File "C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\_distributor_init.py", line 30
+    warnings.warn("loaded more than 1 DLL from .libs:"
+UserWarning: loaded more than 1 DLL from .libs:
+C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\.libs\libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64.dll
+C:\Users\Alfonso Blanco\.conda\envs\alfonso1\lib\site-packages\numpy\.libs\libopenblas64__v0.3.21-gcc_10_3_0.dll
+
+Warning (from warnings module):
+  File "C:\Users\Alfonso Blanco\AppData\Roaming\Python\Python39\site-packages\torchvision\models\_utils.py", line 208
+    warnings.warn(
+UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+
+Warning (from warnings module):
+  File "C:\Users\Alfonso Blanco\AppData\Roaming\Python\Python39\site-packages\torchvision\models\_utils.py", line 223
+    warnings.warn(msg)
+UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+['001', '002', '003', '004', '005', '006', '007', '008', '009', '010', '011', '012', '013', '014', '015', '016', '017', '018', '019', '020', '021', '022', '023', '024', '025', '026', '027', '028', '029', '030', '031', '032', '033', '034', '035', '036', '037', '038', '039', '040', '041', '042', '043', '044', '045', '046', '047', '048', '049', '050', '051', '052', '053', '054', '055', '056', '057', '058', '059', '060', '061', '062', '063', '064', '065', '066', '067', '068', '069', '070', '071', '072', '073', '074', '075', '076', '077', '078', '079', '080', '081', '082', '083', '084', '085', '086', '087', '088', '089', '090', '091', '092', '093', '094', '095', '096', '097', '098', '099', '100', '101', '102', '103', '104', '105', '106', '107', '108', '109', '110', '111', '112', '113', '114', '115', '116', '117', '118', '119', '120', '121', '122', '123', '124', '125', '126', '127', '128', '129', '130', '131', '132', '133', '134', '135', '136', '137', '138', '139', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '150', '151', '152', '153', '154', '155', '156', '157', '158', '159', '160', '161', '162', '163', '164', '165', '166', '167', '168', '169', '170', '171', '172', '173', '174', '175', '176', '177', '178', '179', '180', '181', '182', '183', '184', '185', '186', '187', '188', '189', '190', '191', '192', '193', '194', '195', '196'] {'001': 0, '002': 1, '003': 2, '004': 3, '005': 4, '006': 5, '007': 6, '008': 7, '009': 8, '010': 9, '011': 10, '012': 11, '013': 12, '014': 13, '015': 14, '016': 15, '017': 16, '018': 17, '019': 18, '020': 19, '021': 20, '022': 21, '023': 22, '024': 23, '025': 24, '026': 25, '027': 26, '028': 27, '029': 28, '030': 29, '031': 30, '032': 31, '033': 32, '034': 33, '035': 34, '036': 35, '037': 36, '038': 37, '039': 38, '040': 39, '041': 40, '042': 41, '043': 42, '044': 43, '045': 44, '046': 45, '047': 46, '048': 47, '049': 48, '050': 49, '051': 50, '052': 51, '053': 52, '054': 53, '055': 54, '056': 55, '057': 56, '058': 57, '059': 58, '060': 59, '061': 60, '062': 61, '063': 62, '064': 63, '065': 64, '066': 65, '067': 66, '068': 67, '069': 68, '070': 69, '071': 70, '072': 71, '073': 72, '074': 73, '075': 74, '076': 75, '077': 76, '078': 77, '079': 78, '080': 79, '081': 80, '082': 81, '083': 82, '084': 83, '085': 84, '086': 85, '087': 86, '088': 87, '089': 88, '090': 89, '091': 90, '092': 91, '093': 92, '094': 93, '095': 94, '096': 95, '097': 96, '098': 97, '099': 98, '100': 99, '101': 100, '102': 101, '103': 102, '104': 103, '105': 104, '106': 105, '107': 106, '108': 107, '109': 108, '110': 109, '111': 110, '112': 111, '113': 112, '114': 113, '115': 114, '116': 115, '117': 116, '118': 117, '119': 118, '120': 119, '121': 120, '122': 121, '123': 122, '124': 123, '125': 124, '126': 125, '127': 126, '128': 127, '129': 128, '130': 129, '131': 130, '132': 131, '133': 132, '134': 133, '135': 134, '136': 135, '137': 136, '138': 137, '139': 138, '140': 139, '141': 140, '142': 141, '143': 142, '144': 143, '145': 144, '146': 145, '147': 146, '148': 147, '149': 148, '150': 149, '151': 150, '152': 151, '153': 152, '154': 153, '155': 154, '156': 155, '157': 156, '158': 157, '159': 158, '160': 159, '161': 160, '162': 161, '163': 162, '164': 163, '165': 164, '166': 165, '167': 166, '168': 167, '169': 168, '170': 169, '171': 170, '172': 171, '173': 172, '174': 173, '175': 174, '176': 175, '177': 176, '178': 177, '179': 178, '180': 179, '181': 180, '182': 181, '183': 182, '184': 183, '185': 184, '186': 185, '187': 186, '188': 187, '189': 188, '190': 189, '191': 190, '192': 191, '193': 192, '194': 193, '195': 194, '196': 195}
+ERROR 07999.jpg is assigned Model 087Dodge Charger SRT-8 2009  True Model 070Chevrolet Silverado 1500 Regular Cab 2012
+HIT 08000.jpg is assigned model 162Mercedes-Benz C-Class Sedan 2012
+HIT 08001.jpg is assigned model 149Jeep Wrangler SUV 2012
+HIT 08002.jpg is assigned model 161Mercedes-Benz 300-Class Convertible 1993
+HIT 08003.jpg is assigned model 131Hyundai Azera Sedan 2012
+HIT 08004.jpg is assigned model 030BMW 6 Series Convertible 2007
+HIT 08005.jpg is assigned model 003Acura RL Sedan 2012
+HIT 08006.jpg is assigned model 140Hyundai Veracruz SUV 2012
+HIT 08007.jpg is assigned model 036BMW X5 SUV 2007
+ERROR 08008.jpg is assigned Model 006Acura TSX Sedan 2012  True Model 066Chevrolet Monte Carlo Coupe 2007
+ERROR 08009.jpg is assigned Model 164Mercedes-Benz S-Class Sedan 2012  True Model 162Mercedes-Benz C-Class Sedan 2012
+HIT 08010.jpg is assigned model 017Audi S4 Sedan 2007
+HIT 08011.jpg is assigned model 001AM General Hummer SUV 2000
+HIT 08012.jpg is assigned model 150Lamborghini Aventador Coupe 2012
+HIT 08013.jpg is assigned model 119GMC Canyon Extended Cab 2012
+HIT 08014.jpg is assigned model 012Audi 100 Sedan 1994
+HIT 08015.jpg is assigned model 040Bentley Continental Flying Spur Sedan 2007
+ERROR 08016.jpg is assigned Model 003Acura RL Sedan 2012  True Model 005Acura TL Type-S 2008
+HIT 08017.jpg is assigned model 065Chevrolet Malibu Sedan 2007
+HIT 08018.jpg is assigned model 006Acura TSX Sedan 2012
+HIT 08019.jpg is assigned model 138Hyundai Tucson SUV 2012
+HIT 08020.jpg is assigned model 087Dodge Charger SRT-8 2009
+HIT 08021.jpg is assigned model 028BMW 3 Series Sedan 2012
+HIT 08022.jpg is assigned model 152Lamborghini Gallardo LP 570-4 Superleggera 2012
+HIT 08023.jpg is assigned model 141Infiniti G Coupe IPL 2012
+HIT 08024.jpg is assigned model 159Mazda Tribute SUV 2011
+HIT 08025.jpg is assigned model 119GMC Canyon Extended Cab 2012
+ERROR 08026.jpg is assigned Model 176Rolls-Royce Phantom Drophead Coupe Convertible 2012  True Model 024Audi TTS Coupe 2012
+HIT 08027.jpg is assigned model 013Audi 100 Wagon 1994
+HIT 08028.jpg is assigned model 013Audi 100 Wagon 1994
+HIT 08029.jpg is assigned model 106Ford E-Series Wagon Van 2012
+ERROR 08030.jpg is assigned Model 173Porsche Panamera Sedan 2012  True Model 099FIAT 500 Abarth 2012
+HIT 08031.jpg is assigned model 001AM General Hummer SUV 2000
+HIT 08032.jpg is assigned model 034BMW M6 Convertible 2010
+HIT 08033.jpg is assigned model 036BMW X5 SUV 2007
+HIT 08034.jpg is assigned model 138Hyundai Tucson SUV 2012
+HIT 08035.jpg is assigned model 073Chevrolet Tahoe Hybrid SUV 2012
+ERROR 08036.jpg is assigned Model 135Hyundai Santa Fe SUV 2012  True Model 187Toyota Camry Sedan 2012
+HIT 08037.jpg is assigned model 071Chevrolet Silverado 2500HD Regular Cab 2012
+HIT 08038.jpg is assigned model 080Chrysler Sebring Convertible 2010
+ERROR 08039.jpg is assigned Model 076Chrysler 300 SRT-8 2010  True Model 147Jeep Liberty SUV 2012
+HIT 08040.jpg is assigned model 057Chevrolet Corvette Convertible 2012
+HIT 08041.jpg is assigned model 165Mercedes-Benz SL-Class Coupe 2009
+HIT 08042.jpg is assigned model 050Buick Verano Sedan 2012
+ERROR 08043.jpg is assigned Model 018Audi S4 Sedan 2012  True Model 017Audi S4 Sedan 2007
+ERROR 08044.jpg is assigned Model 036BMW X5 SUV 2007  True Model 010Aston Martin Virage Convertible 2012
+HIT 08045.jpg is assigned model 139Hyundai Veloster Hatchback 2012
+ERROR 08046.jpg is assigned Model 139Hyundai Veloster Hatchback 2012  True Model 188Toyota Corolla Sedan 2012
+HIT 08047.jpg is assigned model 079Chrysler PT Cruiser Convertible 2008
+ERROR 08048.jpg is assigned Model 059Chevrolet Corvette ZR1 2012  True Model 036BMW X5 SUV 2007
+ERROR 08049.jpg is assigned Model 071Chevrolet Silverado 2500HD Regular Cab 2012  True Model 064Chevrolet Malibu Hybrid Sedan 2010
+ERROR 08050.jpg is assigned Model 186Toyota 4Runner SUV 2012  True Model 094Dodge Magnum Wagon 2008
+HIT 08051.jpg is assigned model 011Aston Martin Virage Coupe 2012
+HIT 08052.jpg is assigned model 154Land Rover LR2 SUV 2012
+ERROR 08053.jpg is assigned Model 020Audi S5 Coupe 2012  True Model 024Audi TTS Coupe 2012
+HIT 08054.jpg is assigned model 117Ford Ranger SuperCab 2011
+ERROR 08055.jpg is assigned Model 160McLaren MP4-12C Coupe 2012  True Model 022Audi TT Hatchback 2011
+HIT 08056.jpg is assigned model 119GMC Canyon Extended Cab 2012
+HIT 08057.jpg is assigned model 143Isuzu Ascender SUV 2008
+ERROR 08058.jpg is assigned Model 063Chevrolet Impala Sedan 2007  True Model 032BMW M3 Coupe 2012
+HIT 08059.jpg is assigned model 121GMC Terrain SUV 2012
+ERROR 08060.jpg is assigned Model 120GMC Savana Van 2012  True Model 145Jeep Compass SUV 2012
+HIT 08061.jpg is assigned model 166Mercedes-Benz Sprinter Van 2012
+HIT 08062.jpg is assigned model 054Chevrolet Avalanche Crew Cab 2012
+ERROR 08063.jpg is assigned Model 159Mazda Tribute SUV 2011  True Model 121GMC Terrain SUV 2012
+HIT 08064.jpg is assigned model 132Hyundai Elantra Sedan 2007
+ERROR 08065.jpg is assigned Model 149Jeep Wrangler SUV 2012  True Model 148Jeep Patriot SUV 2012
+HIT 08066.jpg is assigned model 115Ford GT Coupe 2006
+HIT 08067.jpg is assigned model 150Lamborghini Aventador Coupe 2012
+HIT 08068.jpg is assigned model 037BMW X6 SUV 2012
+HIT 08069.jpg is assigned model 155Land Rover Range Rover SUV 2012
+HIT 08070.jpg is assigned model 062Chevrolet HHR SS 2010
+ERROR 08071.jpg is assigned Model 182Suzuki Kizashi Sedan 2012  True Model 193Volvo 240 Sedan 1993
+HIT 08072.jpg is assigned model 126Honda Accord Coupe 2012
+ERROR 08073.jpg is assigned Model 043Bentley Continental Supersports Conv. Convertible 2012  True Model 042Bentley Continental GT Coupe 2012
+HIT 08074.jpg is assigned model 063Chevrolet Impala Sedan 2007
+HIT 08075.jpg is assigned model 063Chevrolet Impala Sedan 2007
+HIT 08076.jpg is assigned model 105Fisker Karma Sedan 2012
+ERROR 08077.jpg is assigned Model 184Suzuki SX4 Sedan 2012  True Model 066Chevrolet Monte Carlo Coupe 2007
+HIT 08078.jpg is assigned model 182Suzuki Kizashi Sedan 2012
+HIT 08079.jpg is assigned model 114Ford Freestar Minivan 2007
+HIT 08080.jpg is assigned model 075Chevrolet Traverse SUV 2012
+HIT 08081.jpg is assigned model 023Audi TT RS Coupe 2012
+HIT 08082.jpg is assigned model 037BMW X6 SUV 2012
+HIT 08083.jpg is assigned model 164Mercedes-Benz S-Class Sedan 2012
+HIT 08084.jpg is assigned model 130Hyundai Accent Sedan 2012
+HIT 08085.jpg is assigned model 010Aston Martin Virage Convertible 2012
+HIT 08086.jpg is assigned model 012Audi 100 Sedan 1994
+HIT 08087.jpg is assigned model 123Geo Metro Convertible 1993
+HIT 08088.jpg is assigned model 190Volkswagen Beetle Hatchback 2012
+HIT 08089.jpg is assigned model 129Honda Odyssey Minivan 2012
+ERROR 08090.jpg is assigned Model 091Dodge Durango SUV 2007  True Model 090Dodge Dakota Crew Cab 2010
+HIT 08091.jpg is assigned model 095Dodge Ram Pickup 3500 Crew Cab 2010
+HIT 08092.jpg is assigned model 087Dodge Charger SRT-8 2009
+HIT 08093.jpg is assigned model 102Ferrari 458 Italia Coupe 2012
+HIT 08094.jpg is assigned model 054Chevrolet Avalanche Crew Cab 2012
+HIT 08095.jpg is assigned model 045Bugatti Veyron 16.4 Convertible 2009
+HIT 08096.jpg is assigned model 008Aston Martin V8 Vantage Convertible 2012
+HIT 08097.jpg is assigned model 055Chevrolet Camaro Convertible 2012
+ERROR 08098.jpg is assigned Model 127Honda Accord Sedan 2012  True Model 181Suzuki Aerio Sedan 2007
+HIT 08099.jpg is assigned model 116Ford Mustang Convertible 2007
+HIT 08100.jpg is assigned model 081Chrysler Town and Country Minivan 2012
+HIT 08101.jpg is assigned model 168Nissan 240SX Coupe 1998
+HIT 08102.jpg is assigned model 164Mercedes-Benz S-Class Sedan 2012
+ERROR 08103.jpg is assigned Model 159Mazda Tribute SUV 2011  True Model 189Toyota Sequoia SUV 2012
+HIT 08104.jpg is assigned model 187Toyota Camry Sedan 2012
+HIT 08105.jpg is assigned model 085Dodge Caravan Minivan 1997
+HIT 08106.jpg is assigned model 151Lamborghini Diablo Coupe 2001
+HIT 08107.jpg is assigned model 079Chrysler PT Cruiser Convertible 2008
+HIT 08108.jpg is assigned model 060Chevrolet Express Cargo Van 2007
+HIT 08109.jpg is assigned model 155Land Rover Range Rover SUV 2012
+HIT 08110.jpg is assigned model 186Toyota 4Runner SUV 2012
+HIT 08111.jpg is assigned model 170Nissan Leaf Hatchback 2012
+HIT 08112.jpg is assigned model 097Dodge Sprinter Cargo Van 2009
+HIT 08113.jpg is assigned model 117Ford Ranger SuperCab 2011
+ERROR 08114.jpg is assigned Model 088Dodge Charger Sedan 2012  True Model 166Mercedes-Benz Sprinter Van 2012
+HIT 08115.jpg is assigned model 160McLaren MP4-12C Coupe 2012
+HIT 08116.jpg is assigned model 163Mercedes-Benz E-Class Sedan 2012
+HIT 08117.jpg is assigned model 075Chevrolet Traverse SUV 2012
+HIT 08118.jpg is assigned model 032BMW M3 Coupe 2012
+ERROR 08119.jpg is assigned Model 014Audi A5 Coupe 2012  True Model 067Chevrolet Silverado 1500 Classic Extended Cab 2007
+HIT 08120.jpg is assigned model 128Honda Odyssey Minivan 2007
+ERROR 08121.jpg is assigned Model 001AM General Hummer SUV 2000  True Model 153Lamborghini Reventon Coupe 2008
+HIT 08122.jpg is assigned model 052Cadillac Escalade EXT Crew Cab 2007
+ERROR 08123.jpg is assigned Model 058Chevrolet Corvette Ron Fellows Edition Z06 2007  True Model 178Scion xD Hatchback 2012
+HIT 08124.jpg is assigned model 040Bentley Continental Flying Spur Sedan 2007
+ERROR 08125.jpg is assigned Model 056Chevrolet Cobalt SS 2010  True Model 055Chevrolet Camaro Convertible 2012
+ERROR 08126.jpg is assigned Model 132Hyundai Elantra Sedan 2007  True Model 117Ford Ranger SuperCab 2011
+HIT 08127.jpg is assigned model 005Acura TL Type-S 2008
+HIT 08128.jpg is assigned model 112Ford Fiesta Sedan 2012
+HIT 08129.jpg is assigned model 046Bugatti Veyron 16.4 Coupe 2009
+HIT 08130.jpg is assigned model 046Bugatti Veyron 16.4 Coupe 2009
+HIT 08131.jpg is assigned model 119GMC Canyon Extended Cab 2012
+HIT 08132.jpg is assigned model 153Lamborghini Reventon Coupe 2008
+ERROR 08133.jpg is assigned Model 007Acura ZDX Hatchback 2012  True Model 003Acura RL Sedan 2012
+HIT 08134.jpg is assigned model 124HUMMER H2 SUT Crew Cab 2009
+
+Total hits = 103
+Total failures = 33
+Accuracy = 75.73529411764706%
+>>> 
