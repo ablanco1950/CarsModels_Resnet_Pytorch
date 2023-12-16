@@ -379,5 +379,8 @@ https://medium.com/analytics-vidhya/top-4-pre-trained-models-for-image-classific
 
 https://github.com/afaq-ahmad/Car-Models-and-Make-Classification-Standford_Car_dataset-mobilenetv2-imagenet-93-percent-accuracy/blob/master/Car_classification.ipynb
 
+https://github.com/ablanco1950/CarsBrands_Resnet_Pytorch
+Comparing with this project, there is a lower success rate but now is detailed to model instead a simple brand or make.
+
 https://github.com/ablanco1950/CarsBrands_Inceptionv3
 Comparing with this project, there is a similar success rate but now is detailed to model instead a simple brand or make.
