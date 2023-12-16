@@ -38,25 +38,45 @@ Note:An error may occur when detecting that there are classes in the valid that 
 
 
 No. epochs: 2,             Training Loss: 0.122             Valid Loss: 4.928             Valid Accuracy: 0.033
+
 No. epochs: 3,             Training Loss: 0.183             Valid Loss: 4.046             Valid Accuracy: 0.118
+
 No. epochs: 4,             Training Loss: 0.211             Valid Loss: 3.313             Valid Accuracy: 0.237
+
 No. epochs: 5,             Training Loss: 0.19             Valid Loss: 2.726             Valid Accuracy: 0.353
+
 No. epochs: 6,             Training Loss: 0.179             Valid Loss: 2.113             Valid Accuracy: 0.465
+
 No. epochs: 7,             Training Loss: 0.146             Valid Loss: 1.873             Valid Accuracy: 0.517
+
 No. epochs: 8,             Training Loss: 0.121             Valid Loss: 1.624             Valid Accuracy: 0.589
+
 No. epochs: 9,             Training Loss: 0.098             Valid Loss: 1.453             Valid Accuracy: 0.621
+
 No. epochs: 10,             Training Loss: 0.081             Valid Loss: 1.405             Valid Accuracy: 0.621
+
 No. epochs: 11,             Training Loss: 0.062             Valid Loss: 1.061             Valid Accuracy: 0.726
+
 No. epochs: 12,             Training Loss: 0.066             Valid Loss: 1.03             Valid Accuracy: 0.733
+
 No. epochs: 13,             Training Loss: 0.064             Valid Loss: 1.008             Valid Accuracy: 0.738
+
 No. epochs: 14,             Training Loss: 0.067             Valid Loss: 1.016             Valid Accuracy: 0.731
+
 No. epochs: 15,             Training Loss: 0.07             Valid Loss: 1.003             Valid Accuracy: 0.735
+
 No. epochs: 16,             Training Loss: 0.076             Valid Loss: 1.005             Valid Accuracy: 0.741
+
 No. epochs: 17,             Training Loss: 0.077             Valid Loss: 1.001             Valid Accuracy: 0.74
+
 No. epochs: 18,             Training Loss: 0.083             Valid Loss: 0.997             Valid Accuracy: 0.74
+
 No. epochs: 19,             Training Loss: 0.09             Valid Loss: 1.014             Valid Accuracy: 0.729
+
 No. epochs: 20,             Training Loss: 0.092             Valid Loss: 0.985             Valid Accuracy: 0.745
+
 Test accuracy of model: 69.89%
+
 >>>
 
 
