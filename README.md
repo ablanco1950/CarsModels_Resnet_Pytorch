@@ -34,7 +34,9 @@ TrainCarsModelss_Resnet_Pytorch.py
 
 which comes ready for 20 epoch, designed so that it can run in a reasonable time on a laptop.
 
-Note:An error may occur when detecting that there are classes in the valid that do not have any image. This can be bypassed by copying any image of the corresponding class from the train to the valid so that all folders in the valid have at least one image. Or by unzipping and copying the attached valid.zip in KaggleCarsByModels_1_196 folder
+Note:An error may occur:
+"FileNotFoundError: Found no valid file for the classes 020, 025, 061. Supported extensions are: .jpg, .jpeg, .png, .ppm, .bmp, .pgm, .tif, .tiff, .webp"
+when detecting that there are classes in the valid that do not have any image. This can be bypassed by copying any image of the corresponding class from the train to the valid so that all folders in the valid have at least one image. Or by unzipping  the attached valid.zip and copy an paste in KaggleCarsByModels_1_196 folder the valid fold with all classes wit unless one image.Be carefull unzziping valid.zip because may create two valid directory nested, only one is needed.
 
 
 No. epochs: 2,             Training Loss: 0.122             Valid Loss: 4.928             Valid Accuracy: 0.033
