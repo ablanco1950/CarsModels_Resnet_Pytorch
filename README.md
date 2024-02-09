@@ -81,6 +81,7 @@ Test accuracy of model: 69.89%
 
 >>>
 
+As a result, the model checkpoint20epoch.pth is obtained, which due to its size I have not been able to upload to github.
 
 Test with unseen data executing
 
