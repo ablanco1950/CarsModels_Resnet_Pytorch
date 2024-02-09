@@ -7,7 +7,7 @@ All used packages, if any are missing, can be installed with a simple pip after 
 
 For this, the Stanford car file downloaded from https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?resource=download has been used.
 
-When you download and unzip the download file you will see that it contains the directories
+When you download and unzip the downloaded file you will see that it contains the directories
 archive\cars_train\cars_train with 8144 numbered images. This folder should be copied to the c: directory so that it is accessible by other projects apart from CarsModels_Resnet_Pytorch and also change the name of the archive folder to archiveKaggle so that there is a folder with C:\\archiveKaggle\\cars_train\ \cars_train
 
 Download all the files that accompany the CarsModels_Resnet_Pytorch project in a single folder.
