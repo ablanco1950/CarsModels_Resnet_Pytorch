@@ -37,7 +37,7 @@ model.fc = nn.Linear(num_ftrs, 196)
 TabCarBrand=[]
 def load_checkpoint(filepath):
 
-    checkpoint = torch.load(filepath)
+    checkpoint = torch.load(filepath,weights_only=False) # changed to acomplish torch 2.6
     
     #model.load_state_dict(checkpoint['state_dict'])
     model.load_state_dict(checkpoint['state_dict'], strict=False)
@@ -50,6 +50,8 @@ model_path= "checkpoint20epoch.pth"
 
 
 model = load_checkpoint('checkpoint20epoch.pth')
+
+
 # Checking model i.e. should have 196 output units in the classifier
 #print(model)
 DataPath='C:\\archiveKaggle\\cars_train\\cars_train' + '\\'
